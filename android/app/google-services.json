@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784407085372",
+    "project_id": "cicerone-99155",
+    "storage_bucket": "cicerone-99155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784407085372:android:9d6611a3a331a24d025e39",
+        "android_client_info": {
+          "package_name": "com.example.projects"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784407085372-qvvomkk31vq3mirmc74lbv3h0i6g1car.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu62PoswtGQOtKKzwzlBC0ejEI8Edocko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784407085372-qvvomkk31vq3mirmc74lbv3h0i6g1car.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
